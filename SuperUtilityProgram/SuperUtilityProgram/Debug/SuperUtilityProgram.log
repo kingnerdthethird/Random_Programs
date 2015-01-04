@@ -1,0 +1,22 @@
+﻿Build started 10/27/2014 12:31:45 PM.
+     1>Project "C:\Users\Isaac\Documents\GitHub\Random_Programs\SuperUtilityProgram\SuperUtilityProgram\SuperUtilityProgram.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SuperUtilityProgram.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SuperUtilityProgram.cpp
+         SuperUtilityProgram.cpp
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\utilityfunctions.h(8): error C2084: function 'int ConvertString(std::string)' already has a body
+                 c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\utilityfunctions.h(8) : see previous definition of 'ConvertString'
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\utilityfunctions.h(18): error C2084: function 'void ClearScreen(void)' already has a body
+                 c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\utilityfunctions.h(18) : see previous definition of 'ClearScreen'
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(24): error C3861: 'ClearScreen': identifier not found
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(29): error C3861: 'ClearScreen': identifier not found
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(41): error C2568: '=' : unable to resolve function overload
+                 c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\utilityfunctions.h(8): could be 'int ConvertString(std::string)'
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(41): error C3861: 'ConvertString': identifier not found
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(45): error C3861: 'ClearScreen': identifier not found
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(50): error C3861: 'ClearScreen': identifier not found
+     1>c:\users\isaac\documents\github\random_programs\superutilityprogram\superutilityprogram\functions\backbonefunctions.h(57): error C3861: 'ClearScreen': identifier not found
+     1>Done Building Project "C:\Users\Isaac\Documents\GitHub\Random_Programs\SuperUtilityProgram\SuperUtilityProgram\SuperUtilityProgram.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.32
