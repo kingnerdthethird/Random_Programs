@@ -1,0 +1,6 @@
+C:\Users\Isaac\Documents\GitHub\Random_Programs\TestProgramForCSharp\TestProgramForCSharp\bin\Debug\TestProgramForCSharp.exe.config
+C:\Users\Isaac\Documents\GitHub\Random_Programs\TestProgramForCSharp\TestProgramForCSharp\bin\Debug\TestProgramForCSharp.exe
+C:\Users\Isaac\Documents\GitHub\Random_Programs\TestProgramForCSharp\TestProgramForCSharp\bin\Debug\TestProgramForCSharp.pdb
+C:\Users\Isaac\Documents\GitHub\Random_Programs\TestProgramForCSharp\TestProgramForCSharp\obj\Debug\TestProgramForCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Documents\GitHub\Random_Programs\TestProgramForCSharp\TestProgramForCSharp\obj\Debug\TestProgramForCSharp.exe
+C:\Users\Isaac\Documents\GitHub\Random_Programs\TestProgramForCSharp\TestProgramForCSharp\obj\Debug\TestProgramForCSharp.pdb
